@@ -10,6 +10,7 @@ class App extends Component {
     return (
       <div>
         <h2 align="center">GREYHOUND STATUS MONITOR</h2>
+        <NavBar></NavBar>
       </div>
     );
   }

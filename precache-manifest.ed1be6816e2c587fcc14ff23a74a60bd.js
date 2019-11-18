@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2133b1c6a83d8a23cff3353944c506dc",
+    "revision": "b635b3261c5d20a095274dcde6236bba",
     "url": "/goommy007/dashboard-frontend/index.html"
   },
   {
-    "revision": "b3a042773d7b9ca6dc63",
+    "revision": "e620c975482436185ad3",
     "url": "/goommy007/dashboard-frontend/static/css/main.34de6062.chunk.css"
   },
   {
-    "revision": "c150989df65622290d5e",
-    "url": "/goommy007/dashboard-frontend/static/js/2.a3d1635c.chunk.js"
+    "revision": "4c4d5ebb8eb8b1682b46",
+    "url": "/goommy007/dashboard-frontend/static/js/2.400207ba.chunk.js"
   },
   {
-    "revision": "b3a042773d7b9ca6dc63",
-    "url": "/goommy007/dashboard-frontend/static/js/main.65ce741b.chunk.js"
+    "revision": "e620c975482436185ad3",
+    "url": "/goommy007/dashboard-frontend/static/js/main.e67d513a.chunk.js"
   },
   {
     "revision": "7e70ad4cd8f6f2721237",

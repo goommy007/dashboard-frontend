@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/goommy007/dashboard-frontend/static/css/main.34de6062.chunk.css",
-    "main.js": "/goommy007/dashboard-frontend/static/js/main.65ce741b.chunk.js",
-    "main.js.map": "/goommy007/dashboard-frontend/static/js/main.65ce741b.chunk.js.map",
+    "main.js": "/goommy007/dashboard-frontend/static/js/main.e67d513a.chunk.js",
+    "main.js.map": "/goommy007/dashboard-frontend/static/js/main.e67d513a.chunk.js.map",
     "runtime-main.js": "/goommy007/dashboard-frontend/static/js/runtime-main.af35d7be.js",
     "runtime-main.js.map": "/goommy007/dashboard-frontend/static/js/runtime-main.af35d7be.js.map",
-    "static/js/2.a3d1635c.chunk.js": "/goommy007/dashboard-frontend/static/js/2.a3d1635c.chunk.js",
-    "static/js/2.a3d1635c.chunk.js.map": "/goommy007/dashboard-frontend/static/js/2.a3d1635c.chunk.js.map",
+    "static/js/2.400207ba.chunk.js": "/goommy007/dashboard-frontend/static/js/2.400207ba.chunk.js",
+    "static/js/2.400207ba.chunk.js.map": "/goommy007/dashboard-frontend/static/js/2.400207ba.chunk.js.map",
     "index.html": "/goommy007/dashboard-frontend/index.html",
-    "precache-manifest.537cde0c6608d51d95ae83d5fc460914.js": "/goommy007/dashboard-frontend/precache-manifest.537cde0c6608d51d95ae83d5fc460914.js",
+    "precache-manifest.ed1be6816e2c587fcc14ff23a74a60bd.js": "/goommy007/dashboard-frontend/precache-manifest.ed1be6816e2c587fcc14ff23a74a60bd.js",
     "service-worker.js": "/goommy007/dashboard-frontend/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/goommy007/dashboard-frontend/static/css/main.34de6062.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.af35d7be.js",
-    "static/js/2.a3d1635c.chunk.js",
+    "static/js/2.400207ba.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.65ce741b.chunk.js"
+    "static/js/main.e67d513a.chunk.js"
   ]
 }

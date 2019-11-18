@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/goommy007/dashboard-frontend/static/css/main.34de6062.chunk.css",
-    "main.js": "/goommy007/dashboard-frontend/static/js/main.1f2d893c.chunk.js",
-    "main.js.map": "/goommy007/dashboard-frontend/static/js/main.1f2d893c.chunk.js.map",
-    "runtime-main.js": "/goommy007/dashboard-frontend/static/js/runtime-main.991480fc.js",
-    "runtime-main.js.map": "/goommy007/dashboard-frontend/static/js/runtime-main.991480fc.js.map",
-    "static/js/2.1201e0a6.chunk.js": "/goommy007/dashboard-frontend/static/js/2.1201e0a6.chunk.js",
-    "static/js/2.1201e0a6.chunk.js.map": "/goommy007/dashboard-frontend/static/js/2.1201e0a6.chunk.js.map",
-    "index.html": "/goommy007/dashboard-frontend/index.html",
-    "precache-manifest.2a2be47280279d7abc4bc55e7f796860.js": "/goommy007/dashboard-frontend/precache-manifest.2a2be47280279d7abc4bc55e7f796860.js",
-    "service-worker.js": "/goommy007/dashboard-frontend/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/goommy007/dashboard-frontend/static/css/main.34de6062.chunk.css.map"
+    "main.css": "/dashboard-frontend/static/css/main.34de6062.chunk.css",
+    "main.js": "/dashboard-frontend/static/js/main.adfa690b.chunk.js",
+    "main.js.map": "/dashboard-frontend/static/js/main.adfa690b.chunk.js.map",
+    "runtime-main.js": "/dashboard-frontend/static/js/runtime-main.8e5ceb79.js",
+    "runtime-main.js.map": "/dashboard-frontend/static/js/runtime-main.8e5ceb79.js.map",
+    "static/js/2.1201e0a6.chunk.js": "/dashboard-frontend/static/js/2.1201e0a6.chunk.js",
+    "static/js/2.1201e0a6.chunk.js.map": "/dashboard-frontend/static/js/2.1201e0a6.chunk.js.map",
+    "index.html": "/dashboard-frontend/index.html",
+    "precache-manifest.431f8f9c744dc3de2885b0f0716f4d41.js": "/dashboard-frontend/precache-manifest.431f8f9c744dc3de2885b0f0716f4d41.js",
+    "service-worker.js": "/dashboard-frontend/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/dashboard-frontend/static/css/main.34de6062.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.991480fc.js",
+    "static/js/runtime-main.8e5ceb79.js",
     "static/js/2.1201e0a6.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.1f2d893c.chunk.js"
+    "static/js/main.adfa690b.chunk.js"
   ]
 }

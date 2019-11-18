@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/goommy007/dashboard-frontend/precache-manifest.ed1be6816e2c587fcc14ff23a74a60bd.js"
+  "/goommy007/dashboard-frontend/precache-manifest.2a2be47280279d7abc4bc55e7f796860.js"
 );
 
 self.addEventListener('message', (event) => {
